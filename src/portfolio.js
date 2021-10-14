@@ -227,6 +227,21 @@ export const projects = [
 		link: "https://www.isupportcause.com/",
 	},
 	{
+		name: "DropZik",
+		desc: "",
+		link: "https://dropzik.com/",
+	},
+	{
+		name: "Nyra",
+		desc: "",
+		link: "http://www.nyrainvestments.co.za/",
+	},
+	{
+		name: "Argentavis",
+		desc: "",
+		link: "https://argentavis-client.vercel.app/",
+	},
+	{
 		name: "MechPic",
 		desc: "",
 		github: "",
