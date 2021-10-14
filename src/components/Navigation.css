@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Augestina;
+    src: url(../assets/fonts/Agustina.otf);
+}
+
+#nav-title{
+    font-family: Augestina;
+    text-transform: capitalize;
+}
+.logodiv{
+    width: 48px!important;
+    height: 53px!important;
+}
