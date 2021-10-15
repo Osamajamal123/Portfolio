@@ -156,7 +156,7 @@ export const educationInfo = [
 	{
 		img:Adeel,
 		schoolName: "Adeel Nazir",
-		subHeader: "Frontend eveloper",
+		subHeader: "Frontend Developer",
 		duration: "",
 		desc: "",
 		descBullets: [
@@ -177,7 +177,7 @@ export const educationInfo = [
 	{
 		img:Shoaib,
 		schoolName: "Muhammad Shoaib",
-		subHeader: "Frontend eveloper",
+		subHeader: "Frontend Developer",
 		duration: "",
 		desc: "",
 		descBullets: [
