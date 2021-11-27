@@ -13,7 +13,7 @@ import Design from "./assets/img/icons/common/design.png"
 import Sania from "./assets/img/icons/common/sania.png"
 import Adeel from "./assets/img/icons/common/adeel.png"
 import Saba from "./assets/img/icons/common/saba.png"
-import Shoaib from "./assets/img/icons/common/shoaib.jpg"
+// import Shoaib from "./assets/img/icons/common/shoaib.jpg"
 
 
 export const greetings = {
@@ -174,17 +174,17 @@ export const educationInfo = [
 			"",
 		],
 	},
-	{
-		img:Shoaib,
-		schoolName: "Muhammad Shoaib",
-		subHeader: "Frontend Developer",
-		duration: "",
-		desc: "",
-		descBullets: [
-			"",
-			"",
-		],
-	},
+	// {
+	// 	img:Shoaib,
+	// 	schoolName: "Muhammad Shoaib",
+	// 	subHeader: "Frontend Developer",
+	// 	duration: "",
+	// 	desc: "",
+	// 	descBullets: [
+	// 		"",
+	// 		"",
+	// 	],
+	// },
 ];
 
 export const experience = [
